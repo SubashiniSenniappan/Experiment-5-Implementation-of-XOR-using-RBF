@@ -129,16 +129,19 @@ print(f"Input:{np.array([1, 1])}, Predicted: {predict_matrix(np.array([1, 1]), W
 ## Output:
 ## Linear Inseperable Data:
 
+![280669277-4637e822-8998-4cf9-a343-cb0dd1f1d71b](https://github.com/SubashiniSenniappan/Experiment-5-Implementation-of-XOR-using-RBF/assets/119404951/c23ca0df-ce5c-4005-9363-5f1552a73fa6)
 
 
 ## Transformed Inputs:
+![280669577-41604a1c-d83e-415c-a4a1-244929e24a30](https://github.com/SubashiniSenniappan/Experiment-5-Implementation-of-XOR-using-RBF/assets/119404951/195530e1-1557-455b-a6f6-952ff340af88)
 
 
 ## Prediction:
 
+![280669934-f8017fbf-a044-4421-91b8-89e743a62757](https://github.com/SubashiniSenniappan/Experiment-5-Implementation-of-XOR-using-RBF/assets/119404951/d67c9157-2efb-4c11-8152-c1a7a6937003)
 
 ## RESULT:
-
+Thus XOR is successfully implemeted using RBF.
 
 
 
